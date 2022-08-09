@@ -26,7 +26,7 @@ print("\t\033[1;31m Insta id :- wtf_uzair_69\n\n")
 print("\t\033[1;32m /GOHST/ MSG\033[1;36mBOT  \n\n")
 
 client=amino.Client()
-client.login(email="sumeetsingh068@gmail.com",password="@Soul2413")
+client.login(email="2oz8fvki@1secmail.net",password="248913244")
 
 print("\nLogged in...")
 n=input("\nChat link : ")
